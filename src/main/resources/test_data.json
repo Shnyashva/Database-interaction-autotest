@@ -1,0 +1,6 @@
+{
+  "dateFormatPattern": "yyyy-MM-dd hh:mm:ss",
+  "temporaryTableName": "temp_table",
+  "testTableName": "test",
+  "passedStatusId": 1
+}

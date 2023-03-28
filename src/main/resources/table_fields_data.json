@@ -1,0 +1,5 @@
+{
+  "maximumLengthForVarChar": 250,
+  "idColumn": 1,
+  "statusIdColumn": 3
+}
